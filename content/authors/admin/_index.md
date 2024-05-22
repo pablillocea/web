@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: brands/mastodon
     url: https://twitter.com/GetResearchDev
-  - icon: gitlab
+  - icon: custom/gitlab
     url: https://gitlab.com/pablillocea
   - icon: brands/linkedin
     url: https://www.linkedin.com/
