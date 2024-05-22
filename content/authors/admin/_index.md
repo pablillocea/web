@@ -3,7 +3,7 @@
 title: Pablo Lillo Cea
 
 # Name pronunciation (optional)
-name_pronunciation: Pablo Lill
+# name_pronunciation: Pablo Lillo
 
 # Full name (for SEO)
 first_name: Pablo
