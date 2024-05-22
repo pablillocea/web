@@ -31,10 +31,11 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "center"
+    align: "right"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    highlight_active_link: true
     logo:
       text: "Pablo Antonio Lillo Cea"
 
