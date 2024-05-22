@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Pablo Lillo Cea
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Pablo Lill
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pablo
+last_name: Lillo Cea
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👾
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,25 +20,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD in Sociology of Education
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+#organizations:
+#  - name: OpenAI
+#    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:pablolillocea@protonmail.com'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/mastodon
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  - icon: brands/gitlab
+    url: https://gitlab.com/pablillocea
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,17 +45,17 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Sociology
   - Computational Linguistics
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Sociology of Education
+    institution: Uppsala University
+    date_start: 2019-02-01
+    date_end: 2024-03-22
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Mikael Börjesson](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 book chapters.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
