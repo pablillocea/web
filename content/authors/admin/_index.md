@@ -34,20 +34,20 @@ profiles:
     url: 'mailto:pablolillocea@protonmail.com'
     label: E-mail Me
   - icon: brands/mastodon
-    url: https://twitter.com/GetResearchDev
+    url: https://mastodon.social/@1nvdr
   - icon: custom/gitlab
     url: https://gitlab.com/pablillocea
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/pablillocea/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=0M2ZiQYAAAAJ&hl=sv&oi=sra
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4868-3301
 
 interests:
   - Sociology
-  - Computational Linguistics
-  - Information Retrieval
+  - Globalisation
+  - Statistics
 
 education:
   - area: PhD Sociology of Education
