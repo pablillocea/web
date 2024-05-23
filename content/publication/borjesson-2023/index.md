@@ -1,5 +1,5 @@
 ---
-title: 'Referenser och citeringar iutbildningsvetenskapligforskning i Sverige, 2001--2021
+title: 'Referenser och citeringar iutbildningsvetenskapligforskning i Sverige, 2001-2021
   : Översiktliga analyser'
 authors:
 - Mikael Börjesson
