@@ -32,14 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🔍 My Research Focus'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        The sociology of education is a significant chapter in the sociology of knowledge and power, as well as the philosophies of power. Often misjudged as merely an applied science fit only for educators, it actually forms the foundation of a broader anthropology of power and legitimacy. This discipline helps us understand the mechanisms behind the reproduction of social structures and the mental frameworks that, being linked to these structures, obscure their true nature and reinforce their legitimacy. In advanced societies, social differentiation is driven by economic and cultural capital. The educational system, crucial in distributing cultural capital, thus plays a key role in maintaining social hierarchies and becomes a central battleground for controlling dominant positions.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        (Adapted from the prologue of *The State Nobility* by P. Bourdieu)
     design:
       columns: '1'
   # - block: collection
